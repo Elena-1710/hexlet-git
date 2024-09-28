@@ -5,3 +5,5 @@
 
 
 12
+I love Hexlet
+We are studying Git
