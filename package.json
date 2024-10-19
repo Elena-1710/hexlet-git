@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "readline-sync": "^1.4.10"
   },
   "name": "hexlet-git",
   "description": "Hello, Hexlet! How are you? Hello ggggg екекенкекегкег",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
