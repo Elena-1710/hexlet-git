@@ -3,13 +3,13 @@
     'apricot', 'apple', 'banana',
     'apple', 'orange', 'pear',
   ];*/
-  import _ from  'lodash';
-  const text1 = 'one';
-  const result = {};
-  if (text1.length === 0){
-    console.log (result)}
-    else console.log('1');
-  
+// eslint-disable-next-line import/newline-after-import, no-unused-vars
+import _ from 'lodash';
+
+const text1 = 'one';
+const result = {};
+if (text1.length === 0) {
+  console.log(result)} else console.log('1');
   /*const countWorlds = ()
   const fruitsLowerCase = text1.toLowerCase();
   const fruits = _.words(text1)*/
