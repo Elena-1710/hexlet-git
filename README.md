@@ -106,5 +106,5 @@ toLowerCase – приведение к нижнему регистру
 
 ## Asciinema brain-even:
 
-[![asciicast] https://asciinema.org/connect/f9da58aa-4a49-4ffb-a519-e6e8bd02f0a1
+[![asciicast] https://asciinema.org/connect/f9da58aa-4a49-4ffb-a519-e6e8bd02f0a1.svg] (https://asciinema.org/connect/f9da58aa-4a49-4ffb-a519-e6e8bd02f0a1)
  
