@@ -103,3 +103,6 @@ countWords(text2);
 Подсказки
 Для формирования массива слов поможет функция _.words
 toLowerCase – приведение к нижнему регистру
+
+ https://asciinema.org/connect/f9da58aa-4a49-4ffb-a519-e6e8bd02f0a1
+ 
