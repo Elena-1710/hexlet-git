@@ -104,5 +104,7 @@ countWords(text2);
 Для формирования массива слов поможет функция _.words
 toLowerCase – приведение к нижнему регистру
 
- https://asciinema.org/connect/f9da58aa-4a49-4ffb-a519-e6e8bd02f0a1
+## Asciinema brain-even:
+
+[![asciicast] https://asciinema.org/connect/f9da58aa-4a49-4ffb-a519-e6e8bd02f0a1
  
