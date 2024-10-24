@@ -108,3 +108,4 @@ toLowerCase – приведение к нижнему регистру
 
 [![asciicast](https://asciinema.org/a/EqxDccHyb8sHhuKL3f22RW2F7.svg)](https://asciinema.org/a/EqxDccHyb8sHhuKL3f22RW2F7)
  
+----
