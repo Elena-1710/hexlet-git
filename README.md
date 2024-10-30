@@ -1,4 +1,4 @@
-#normalize.js
+## normalize.js
 
 Реализуйте и экспортируйте по умолчанию функцию, которая "нормализует" данные переданного урока. То есть приводит их к определенному виду. Нормализация происходит путём изменения исходного объекта.
 
@@ -50,6 +50,7 @@ const company1 = { name: 'Hexlet', state: 'published', website: 'https://hexlet.
 const company2 = { name: 'Hexlet', state: 'published', website: 'https://hexlet.io' };
 is(company1, company2); // true
 ______________________________________________________
+## getDomainInfo
 Реализуйте и экспортируйте по умолчанию функцию, которая принимает на вход имя сайта и возвращает информацию о нем:
 
 import getDomainInfo from './domain.js';
@@ -106,8 +107,3 @@ countWords(text2);
 Для формирования массива слов поможет функция _.words
 toLowerCase – приведение к нижнему регистру
 
-## Asciinema brain-even:
-
-[![asciicast](https://asciinema.org/a/EqxDccHyb8sHhuKL3f22RW2F7.svg)](https://asciinema.org/a/EqxDccHyb8sHhuKL3f22RW2F7)
- 
-----
