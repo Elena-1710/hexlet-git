@@ -6,13 +6,12 @@ const is = (company1, company2) => {
   const keys1 = Object.keys(company1);
   const keys2 = Object.keys(company2);
 
-  if (keys1.length !== keys1.length) {
-    return false;
-  }
+  if (keys1.length !== keys2.length) { return false; }
+  // eslint-disable-next-line no-restricted-syntax
   for (const key in company1) {
     if (company1[key] !== company2[key]) {
       return false;
     }
   } return true;
 };
-export default is;
+console.log(is(company1, company2));
