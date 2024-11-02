@@ -4,12 +4,12 @@ const users = [
   { name: 'Eiegon', gender: 'male', birthday: '1963-11-03' },
   { name: 'Sansa', gender: 'female', birthday: '2012-11-03' },
 ];
-const getSortedNames = (users) => {
+const getSortedNames = (data) => {
   const names = [];
-  for (const {name} of users) {
+  for (const { name } of data) {
     names.push(name);
-  } 
+  }
   names.sort();
-    return names;
-}
+  return names;
+};
 console.log(getSortedNames(users));
