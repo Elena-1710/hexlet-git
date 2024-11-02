@@ -1,4 +1,4 @@
-const additionalProperty = { website: 'hexlet.io', state: 'published' };
+onst additionalProperty = { website: 'hexlet.io', state: 'published' };
 // eslint-disable-next-line no-shadow
 const make = (name, additionalProperty = {}) => {
   if (!name) {
